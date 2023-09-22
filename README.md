@@ -9,5 +9,5 @@ This is a Portfolio Website I made while learning HTML and CSS. I took many hour
 in the future and use it when I graduate. 
 
 # MY Bootstrap Assignment
-My bootstrap assignment was very fun! I made and customized a Movies website using Bootstrap. This was also the first time using VS code.
+My bootstrap assignment was very fun! I made and customized a Movies website using Bootstrap. This was also my first time using VS code.
 It was really cool learning all the bootstrap shortcuts.
